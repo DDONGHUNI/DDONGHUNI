@@ -1,4 +1,5 @@
-### Hi there 👋
+### > DDONGHUNI / README.md
+# 정보과학대학 빅데이터전공 18학번 정동훈 
 
 <!--
 **DDONGHUNI/DDONGHUNI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
