@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
 <tr> <h2>etc</h2>
   <td> R </td>&nbsp&nbsp<td> Python </td>&nbsp&nbsp<td>Git / Github </td><br/>
-  <td>Ubuntu</td>     <td>MySQL</td>
+  <td>Ubuntu</td>&nbsp&nbsp<td>MySQL</td>
 </tr>
