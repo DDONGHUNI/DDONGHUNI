@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 
 ## SKILL
 <tr> <h2>FRONT-END</h2>
-  <td> HTML </td>&nbsp<td> CSS </td>&nbsp<td> JavaScript </td>
+  <td> HTML </td>&nbsp&nbsp<td> CSS </td>&nbsp&nbsp<td> JavaScript </td>
 </tr>
 
 <tr> <h2>BACK-END</h2>
-  <td> Java </td>    <td> C </td>    <td> Spring </td>
+  <td> Java </td>&nbsp&nbsp<td> C </td>&nbsp&nbsp<td> Spring </td>
 </tr>
 
 <tr> <h2>etc</h2>
-  <td> R </td>      <td> Python </td>     <td>Git / Github </td> <\n>
+  <td> R </td>&nbsp&nbsp<td> Python </td>&nbsp&nbsp<td>Git / Github </td><br/>
   <td>Ubuntu</td>     <td>MySQL</td>
 </tr>
