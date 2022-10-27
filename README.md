@@ -43,4 +43,4 @@ Here are some ideas to get you started:
   <td>Ubuntu</td>&nbsp&nbsp<td>MySQL</td>
 </tr>
 
-<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDONGHUNI&langs_count=8)](https://github.com/DDONGHUNI/github-readme-stats
