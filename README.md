@@ -43,4 +43,5 @@ Here are some ideas to get you started:
   <td>Ubuntu</td>&nbsp&nbsp<td>MySQL</td>
 </tr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDONGHUNI&langs_count=8)](https://github.com/DDONGHUNI/github-readme-stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDONGHUNI&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=DDONGHUNI&show_icons=true">
