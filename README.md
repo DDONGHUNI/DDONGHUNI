@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## SKILL
 <tr> <h2>FRONT-END</h2>
-  <td> HTML </td>    <td> CSS </td>    <td> JavaScript </td>
+  <td> HTML </td>&nbsp<td> CSS </td>&nbsp<td> JavaScript </td>
 </tr>
 
 <tr> <h2>BACK-END</h2>
