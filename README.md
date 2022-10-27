@@ -22,7 +22,14 @@ Here are some ideas to get you started:
 ## 이름 : 정동훈
 ## 생년월일 : 1999.09.14
 ## 연락처 : 010 - 9224 - 4706
+## 이메일 : mi1232944@naver.com
+## github 주소 : https://github.com/DDONGHUNI
 ## 대학교 : 한림대학교
 
 ### 전공 : 빅데이터 전공
 ### 복수전공 : 데이터테크 전공
+
+## SKILL
+<tr> FRONT-END
+  <td> HTML </td> <td> CSS </td> <td> JavaScript </td>
+</tr>
