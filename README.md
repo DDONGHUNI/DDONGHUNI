@@ -42,3 +42,5 @@ Here are some ideas to get you started:
   <td> R </td>&nbsp&nbsp<td> Python </td>&nbsp&nbsp<td>Git / Github </td><br/>
   <td>Ubuntu</td>&nbsp&nbsp<td>MySQL</td>
 </tr>
+
+<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/>
