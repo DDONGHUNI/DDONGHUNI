@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   <td> R </td>&nbsp&nbsp<td> Python </td>&nbsp&nbsp<td>Git / Github </td><br/>
   <td>Ubuntu</td>&nbsp&nbsp<td>MySQL</td>
 </tr>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDONGHUNI&layout=compact"><br><br>
+## 나의 깃 STATS
 <img src="https://github-readme-stats.vercel.app/api?username=DDONGHUNI&show_icons=true">
