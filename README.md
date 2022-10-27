@@ -30,14 +30,15 @@ Here are some ideas to get you started:
 ### 복수전공 : 데이터테크 전공
 
 ## SKILL
-<tr> FRONT-END
+<tr> <h2>FRONT-END</h2>
   <td> HTML </td>    <td> CSS </td>    <td> JavaScript </td>
 </tr>
 
-<tr> BACK-END
+<tr> <h2>BACK-END</h2>
   <td> Java </td>    <td> C </td>    <td> Spring </td>
 </tr>
 
-<tr> etc
+<tr> <h2>etc</h2>
   <td> R </td>    <td> Python </td>    <td> Git / Github </td>
   <td> Ubuntu </td>    <td> MySQL
+</tr>
