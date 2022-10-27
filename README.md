@@ -31,5 +31,13 @@ Here are some ideas to get you started:
 
 ## SKILL
 <tr> FRONT-END
-  <td> HTML </td> <td> CSS </td> <td> JavaScript </td>
+  <td> HTML </td>    <td> CSS </td>    <td> JavaScript </td>
 </tr>
+
+<tr> BACK-END
+  <td> Java </td>    <td> C </td>    <td> Spring </td>
+</tr>
+
+<tr> etc
+  <td> R </td>    <td> Python </td>    <td> Git / Github </td>
+  <td> Ubuntu </td>    <td> MySQL
