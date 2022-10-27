@@ -46,3 +46,11 @@ Here are some ideas to get you started:
 
 ## 나의 깃 STATS
 <img src="https://github-readme-stats.vercel.app/api?username=DDONGHUNI&show_icons=true">
+
+## My Portfolio
+동아리활동으로 사이트를 만든 것 입니다.<br>
+![2022-10-07](https://user-images.githubusercontent.com/105115200/198215527-a735608f-c43b-4a9d-89a6-be979b566f5d.png)
+
+## 앞으로의 계획
+프론트엔드의 직업을 이루기 위해서는 React 의 기술을 배워야합니다.
+React 의 언어와 백엔드의 기술을 추가로 배워서 탄탄한 웹 개발자가 될 것 입니다.
