@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 </tr>
 
 <tr> <h2>etc</h2>
-  <td> R </td>      <td> Python </td>     <td>Git / Github </td>
+  <td> R </td>      <td> Python </td>     <td>Git / Github </td> <\n>
   <td>Ubuntu</td>     <td>MySQL</td>
 </tr>
