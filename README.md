@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 ![2022-10-07](https://user-images.githubusercontent.com/105115200/198215527-a735608f-c43b-4a9d-89a6-be979b566f5d.png)
 
 ## 앞으로의 계획
-프론트엔드의 직업을 이루기 위해서는 React 의 기술을 배워야합니다.
-React 의 언어와 백엔드의 기술을 추가로 배워서 탄탄한 웹 개발자가 될 것 입니다.
+React 의 기술을 배워고 추가로 백엔드 기술을 배워서 <br> 
+든든한 웹 개발자가 될 것 입니다.
